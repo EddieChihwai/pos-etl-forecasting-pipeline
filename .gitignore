@@ -23,6 +23,5 @@ __pycache__/
 Thumbs.db
 .vscode/
 
-# Uncomment below if raw POS Excel exports should not be pushed to GitHub
-# data/*.xlsx
-# data/*.csv
+data/*.xlsx
+data/*.csv
